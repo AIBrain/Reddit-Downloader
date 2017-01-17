@@ -1,4 +1,4 @@
-![](https://placehold.it/350x150)
+![](https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Reddit_logo_and_wordmark.svg/1280px-Reddit_logo_and_wordmark.svg.png)
 # What is Reddit-Downloader
 
 Reddit-Downloader is a lightweight program which you can use to download images you save from your favourite sub reddits Automatically. so say good bye to the day of manually going through your posts and downloading imgur albums this program will do it all for you.
