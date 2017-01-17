@@ -6,10 +6,10 @@ Reddit-Downloader is a lightweight program which you can use to download images 
 **Features**
 - Manage root download folder
 - Specify Subreddits
-- Custom Directory for each subreddit (defaults to root folder)
+- Custom directory for each subreddit (defaults to root folder)
 - NSFW option (hides folder and images)
-- force sync
-- night mode
+- Force sync
+- Night mode
 
 # How-To
 ![](http://i.imgur.com/he7ZR3H.png?1)  
