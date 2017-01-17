@@ -13,9 +13,14 @@ Reddit-Downloader is a lightweight program which you can use to download images 
 
 # How-To
 ![](http://i.imgur.com/he7ZR3H.png?1)  
-if you managed to log into reddit then you can log into this app, you enter your user name and password select login and you are all good to go  
+Login with your Reddit username and password.  
 ![](http://i.imgur.com/9XFL1oN.png)  
+Set the root folder to download images into (Folders will be created automatically within this folder for each subreddit).  
+Add a new subreddit which you wish to check for saved posts in.  
+The application will check every so often for saved posts with the subreddits you added.  
 ![](http://i.imgur.com/HVCXQd3.png)  
+To remove a subreddit, select it in the dropdown box then click "Remove Subreddit".  
+To make changes to a subreddit, select it in the dropdown box and change the options.  
 
 # Downloads
 [Click me!](https://github.com/GlossyPanther/Reddit-Downloader/releases)
